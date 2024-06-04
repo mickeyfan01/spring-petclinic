@@ -38,7 +38,7 @@ Answer:
 1. Github Repo
    - Githuhttps://github.com/mfan28sydney/spring-petclinic
      
-   - Github Actions workflow files : /.github/workflows/main.yml
+   - Github Actions workflow files : /.github/workflows/main-build.yml
      
    - Jfrog Artifactory image URL : mickeyfan.jfrog.io/petclinic/spring-petclinic:3.3.0-SNAPSHOT
      
